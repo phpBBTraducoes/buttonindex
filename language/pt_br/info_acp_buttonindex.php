@@ -4,7 +4,7 @@
 * @package phpBB Extension - Button index
 * @copyright (c) 2016 dmzx - http://www.dmzx-web.net
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2018 [ver 1.0.1] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by eunaumtenhoid [2018][ver 1.0.1] (https://github.com/phpBBTraducoes)
 */
 
 if (!defined('IN_PHPBB'))
